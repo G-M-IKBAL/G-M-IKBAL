@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ghulam Mohiuddin</h1>
 <h3 align="center">A Software Developer</h3>
 
-<h3 align="left">Connect with me: xsmohiuddin@gmail.com</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+  xsmohiuddin@gmail.com   || +92 3458466668
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
