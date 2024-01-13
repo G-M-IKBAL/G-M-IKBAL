@@ -41,8 +41,9 @@ Here are some of the technologies I work with:
 
 # Contact
 Feel free to connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin)] (linkedin.com/in/gm-iqbal)
-![Gmail](https://img.shields.io/badge/Gmail-%20-critical?style=flat&logo=gmail)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin)](linkedin.com/in/gm-iqbal)
+![Gmail](https://img.shields.io/badge/Gmail-%20-critical?style=flat&logo=gmail)(xsmohiuddin@gmail.com)
 
 
 <!-- Add any other social media links if you want -->
