@@ -39,13 +39,11 @@ Here are some of the technologies I work with:
 ![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
+# Contact
+Feel free to connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin)] (linkedin.com/in/gm-iqbal)
+![Gmail](https://img.shields.io/badge/Gmail-%20-critical?style=flat&logo=gmail)
 
-
-<!-- Add more certifications as needed -->
-
----
-
-Feel free to connect with me on [LinkedIn](Your LinkedIn URL)!
 
 <!-- Add any other social media links if you want -->
 
